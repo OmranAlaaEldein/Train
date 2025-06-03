@@ -9,3 +9,4 @@
 /TrainCore/obj
 /train/bin/Debug/netcoreapp3.1
 /train/obj
+/train/appsettings.json
